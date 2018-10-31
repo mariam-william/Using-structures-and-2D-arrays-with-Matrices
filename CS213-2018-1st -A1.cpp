@@ -2,9 +2,7 @@
 // Title:    Assignment I - Task 1 - Problem 0
 // Program:  CS213-2018-A1-T1-P0
 // Purpose:  Using structures and 2D-arrays with Matrices.
-// Author-1: Mariam Makram William.        ID: 20170283
-// Author-2: Menna Allah Mostafa Mohamed. ID: 20170298
-// Author-3: Mona Mohamed Fathy.           ID: 20170300
+
 // Date:    23 September, 2018
 // Version: 1.0
 
